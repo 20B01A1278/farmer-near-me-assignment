@@ -1,0 +1,26 @@
+.image-style{
+    height: 30px;
+    width: 30px;
+}
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.image-btn{
+    border-radius: 50%;
+}
+
+@media(width<500px){
+    .navbar{
+        width: 13.3cm;
+    }
+}
+.image-btn{
+    color: white;
+    font-weight: 600;
+    background-color: #28a745;
+   border-style: hidden;
+    
+}
